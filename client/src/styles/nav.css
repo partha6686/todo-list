@@ -1,0 +1,8 @@
+.navbar {
+  background: linear-gradient(#13192ea1, #13192ec5, #13192eea, #151d31),
+    url("../assets/img1.jpg");
+  height: 350px;
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 1rem 0;
+}

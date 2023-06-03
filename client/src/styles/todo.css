@@ -1,0 +1,17 @@
+.todo_card {
+  margin: 1rem auto;
+  background-color: #252a3f;
+  padding: 2rem 1.5rem 3rem;
+  border: 4px solid #4e567a;
+  border-radius: 8px;
+  position: relative;
+}
+.hr {
+  margin: 0.5rem auto;
+  border-bottom: 3px solid #4e567a;
+}
+.todo_btn {
+  position: absolute;
+  bottom: -30px;
+  right: 1rem;
+}
